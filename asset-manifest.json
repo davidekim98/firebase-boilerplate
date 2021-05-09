@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/firebase-boilerplate/static/js/main.e34209df.chunk.js",
+    "main.js.map": "/firebase-boilerplate/static/js/main.e34209df.chunk.js.map",
+    "runtime-main.js": "/firebase-boilerplate/static/js/runtime-main.7ffb0bfd.js",
+    "runtime-main.js.map": "/firebase-boilerplate/static/js/runtime-main.7ffb0bfd.js.map",
+    "static/js/2.c6ba8ca1.chunk.js": "/firebase-boilerplate/static/js/2.c6ba8ca1.chunk.js",
+    "static/js/2.c6ba8ca1.chunk.js.map": "/firebase-boilerplate/static/js/2.c6ba8ca1.chunk.js.map",
+    "index.html": "/firebase-boilerplate/index.html",
+    "static/js/2.c6ba8ca1.chunk.js.LICENSE.txt": "/firebase-boilerplate/static/js/2.c6ba8ca1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ffb0bfd.js",
+    "static/js/2.c6ba8ca1.chunk.js",
+    "static/js/main.e34209df.chunk.js"
+  ]
+}
